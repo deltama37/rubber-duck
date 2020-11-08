@@ -1,5 +1,5 @@
 {
-  "name": "next-tailwind",
+  "name": "rubber-duck",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deltama37/next-tailwind.git"
+    "url": "git+https://github.com/deltama37/rubber-duck.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/deltama37/next-tailwind/issues"
+    "url": "https://github.com/deltama37/rubber-duck/issues"
   },
-  "homepage": "https://github.com/deltama37/next-tailwind#readme",
+  "homepage": "https://github.com/deltama37/rubber-duck#readme",
   "dependencies": {
     "firebase": "^7.24.0",
     "material-design-icons": "^3.0.1",
